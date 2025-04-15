@@ -1,0 +1,6 @@
+Amount: 5
+1: ¨€±
+2: NoWord
+3: word3
+4: ~±
+5: word1
